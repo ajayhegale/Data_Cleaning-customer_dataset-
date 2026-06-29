@@ -1,0 +1,17 @@
+,CustomerID,First_Name,Last_Name,Phone_Number,Paying Customer,Do_Not_Contact,Street_Address,City,Pin_Code
+0,1001,Frodo,Baggins,123-545-5421,Yes,No,123 Shire Lane, Shire,
+1,1002,Abed,Nadir,123-643-9775,No,Yes,93 West Main Street,,
+2,1003,Walter,/White,706-695-0392,N,,298 Drugs Driveway,,
+3,1004,Dwight,Schrute,123-543-2345,Yes,Y,980 Paper Avenue, Pennsylvania, 18503
+4,1005,Jon,Snow,876-678-3469,Y,No,123 Dragons Road,,
+5,1006,Ron,Swanson,304-762-2467,Yes,Yes,768 City Parkway,,
+6,1008,Sherlock,Holmes,876-678-3469,N,No,98 Clue Drive,,
+7,1010,Peter,Parker,123-545-5421,Yes,No,25th Main Street, New York,
+8,1012,Harry,...Potter,706-695-0392,Y,,2394 Hogwarts Avenue,,
+9,1013,Don,Draper,123-543-2345,Yes,N,2039 Main Street,,
+10,1014,Leslie,Knope,876-678-3469,Yes,No,343 City Parkway,,
+11,1015,Toby,Flenderson_,304-762-2467,N,No,214 HR Avenue,,
+12,1016,Ron,Weasley,123-545-5421,No,N,2395 Hogwarts Avenue,,
+13,1017,Michael ,Scott,123-643-9775,Yes,No,121 Paper Avenue, Pennsylvania,
+14,1018,Clark,Kent,706-695-0392,Y,,3498 Super Lane,,
+15,1020,Anakin,Skywalker,876-678-3469,Yes,N,910 Tatooine Road, Tatooine,
